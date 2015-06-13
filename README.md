@@ -32,11 +32,11 @@ Actully I've been asked **mostly** what I mentioned
 [in this **o2.js** blog post](http://o2js.com/2011/04/23/do-you-think-you-know-javascript-you-dont/),
 If you're serious about getting a decent **JavaScript Engineering** job
 that you'll love to go to every single day of the week, doing amazing thing with genius minds,
-then you had better review that link, before studying **booring** CS101-ish interview questions.
+then you had better review that link, before studying **boring** CS101-ish interview questions.
 
 Don't get me wrong though, there still are companies that ask about **why manhole covers are round**,
-or **how you can balance a binary tree**. So **do study** those **boring** stuf, just to increase the odds.
-Besides, if you do not **memorize** but **actually** study those sh\*t, chances are that you'll learn a lot
+or **how you can balance a binary tree**. So **do study** that **boring** stuff, just to increase the odds.
+Besides, if you do not **memorize** but **actually** study that sh\*t, chances are that you'll learn a lot
 from those questions as well, at least as an exercise **;)**.
 
 This repository contains a growing list of JavaScript Job interview questions 
